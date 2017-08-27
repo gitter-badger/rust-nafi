@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["many0","Construct a new parser that matches a subparser zero or more times."],["peek","Run a parser without consuming anything."]]});

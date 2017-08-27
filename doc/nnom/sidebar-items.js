@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["combinators","Simple combinator fn of other parser fn"],["prelude","The commonly used types of this crate"],["result","Parsing result types"],["slice","Types for working with slices while retaining position information"]]});
