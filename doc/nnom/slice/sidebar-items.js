@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PositionedIndex","A slice with additional information of where it starts in the source buffer."]],"type":[["PositionedSlice","An array slice with associated start position in the original source slice."],["PositionedStr","A string slice with associated start position in the original source slice."]]});

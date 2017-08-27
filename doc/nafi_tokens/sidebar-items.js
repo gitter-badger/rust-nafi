@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Token",""]],"struct":[["InvalidEscapes","The invalid escapes in a string literal."],["StringFragments","A String that also remembers invalid escapes inside it."]]});
