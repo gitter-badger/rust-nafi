@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ParseOutput","The output of a parser fragment."]],"type":[["Result","Standard result type for parsing."]]});
